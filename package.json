@@ -1,0 +1,10 @@
+{
+  "name": "claudia-docs",
+  "version": "1.0.0",
+  "description": "Documentation for claudia.js",
+  "author": "Alexander Reelsen",
+  "license": "public domain",
+  "devDependencies": {
+    "harp": "0.20.3"
+  }
+}
